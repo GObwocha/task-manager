@@ -68,5 +68,6 @@ vcpkg_installed/
 Testing/
 .cache/
 
-
-.json  
+# Additional unnecessary files
+.json
+.txt
